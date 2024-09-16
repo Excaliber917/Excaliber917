@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="./github banner.gif">
 
-<p align="left"> <a href="https://www.chess.com/member/excalibur917">You can also find me here</a></p>
+<p align="left"> <a href="https://portfolio-quk7.onrender.com/">Portfolio</a></p>
 
 - 🌱 I’m currently learning **MERN,Next.js,system_verilog**
 
